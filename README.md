@@ -30,7 +30,7 @@ EDA involved exploring the sales data to answer key question such as  :
 - Which PropertyType is sold the most?
 - Which tax district is generating more
     Revenue?
-- Which city is generating the highest revenue and which city is generatingbthe lowest revenue?
+- Which city is generating the highest revenue and which city is generating the lowest revenue?
 
 ### Data analysis
 Includes some interesting codes/ features worked with 
@@ -46,11 +46,11 @@ The analysis results are summarised as follows :
 
 - Single family Property_Type was sold the most.
 - Urban services district was generating more revenue. 
--  Nashville is generating the highest revenue while Joelton is generatingthe lowest.
+-  Nashville is generating the highest revenue while Joelton is generating the lowest.
 
 ### Recommendations 
 
-Based on the analysis , we recommend the following actions :
+Based on the analysis , I recommend the following actions :
 - Focus on cities generating lower revenue and study the reason why the revenue from the city is low and improve the house sales to make it more suitable for the cities.
 
 
