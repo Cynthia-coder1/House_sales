@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Exploratory data analysis](#exploratory-data-analysis)
 - [Recommendations](#recommendations)
-- [DataSource](#data-source)
+
 
 ### Project Overview
 This data analysis project provides insight into house sales performance of nashville housing company over the past year. By analysing various aspects of the sales , we gain deeper understanding of the company's performance and make decisions to improve company sales .
