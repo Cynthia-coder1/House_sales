@@ -10,8 +10,10 @@
 ### Project Overview
 This data analysis project provides insight into house sales performance of nashville housing company over the past year. By analysing various aspects of the sales , we gain deeper understanding of the company's performance and make decisions to improve company sales .
 
+![house_sales](https://github.com/Cynthia-coder1/House_sales/assets/133775028/3c3fce72-b831-466f-8fae-d5b03f84b828)
+
 ### Data Source 
-Sales data : This dataset used for this analysis is "Nashville Housing.csv"  file which contains detailed information about each sales made by the company.
+Sales data : The dataset used for this analysis is "Nashville Housing.csv"  file which contains detailed information about each sales made by the company.
 
 ### Tools
 - Python - Utilized python for data cleaning demonstrating proficiency in extracting insights.
